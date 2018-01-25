@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat Feb 11 18:24:50 IST 2017
+2.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\grid_view.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\man.jpg
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_grid_view.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\grid_view.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\button_background.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_fullscreen_view.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\layout_fullscreen_image.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

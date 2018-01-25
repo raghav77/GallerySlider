@@ -1,0 +1,7 @@
+#Sat Feb 11 18:25:12 IST 2017
+base.0=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_51855b0d167db81ebf8e544851982beee23c6330
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d80887404ec51a41891bf763e3a123ff1d462fae\\classes.dex
+base.1=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d80887404ec51a41891bf763e3a123ff1d462fae
+file.0=C\:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_51855b0d167db81ebf8e544851982beee23c6330\\classes.dex

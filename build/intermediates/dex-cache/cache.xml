@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\adity\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\adity\GallerySlider\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_973807aa51d82519808cb67f397cff177245ea6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adity\GallerySlider\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b8df5b9b60ca282cd50b80ddbc18781a756f8a9">
+        <dex dex="C:\Users\adity\GallerySlider\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_51855b0d167db81ebf8e544851982beee23c6330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adity\GallerySlider\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5681415485a9dca314e64998fd30535e19e1bff">
+        <dex dex="C:\Users\adity\GallerySlider\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d80887404ec51a41891bf763e3a123ff1d462fae\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_grid_view.xml",
+        "source": "C:\\Users\\adity\\GallerySlider\\app\\src\\main\\res\\layout\\activity_grid_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen_view.xml",
+        "source": "C:\\Users\\adity\\GallerySlider\\app\\src\\main\\res\\layout\\activity_fullscreen_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\GallerySlider\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fullscreen_image.xml",
+        "source": "C:\\Users\\adity\\GallerySlider\\app\\src\\main\\res\\layout\\layout_fullscreen_image.xml"
+    }
+]
